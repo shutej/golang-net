@@ -79,7 +79,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"golang.org/x/net/timeseries"
+	"github.com/shutej/golang-net/timeseries"
 )
 
 // DebugUseAfterFinish controls whether to debug uses of Trace values after finishing.
